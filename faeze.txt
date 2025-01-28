@@ -1,4 +1,4 @@
-۹vless://f5399f86-de05-04d2-9908-ea9a384a5a35@45.135.193.10:2052?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#faeze
+vless://f5399f86-de05-04d2-9908-ea9a384a5a35@45.135.193.10:2052?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#faeze
 vless://f5399f86-de05-04d2-9908-ea9a384a5a35@45.135.193.15:2093?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#faeze
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.227.0.235:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#faeze
 vless://f5399f86-de05-04d2-9908-ea9a384a5a35@45.135.193.8:2093?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#faeze
